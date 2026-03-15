@@ -1,0 +1,13 @@
+{
+  "gopls": {
+    "staticcheck": true,
+    "completeUnimported": true,
+    "analyses": {
+      "ST1000": false,
+    },
+  },
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  }
+}
